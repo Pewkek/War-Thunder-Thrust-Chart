@@ -1,6 +1,6 @@
 # War Thunder thrust chart generator
 
-![F-4E thrust chart](https://github.com/Pewkek/War-Thunder-Thrust-Chart/raw/master/f4e.png)
+![F-4E thrust chart](https://github.com/Pewkek/War-Thunder-Thrust-Chart/raw/master/F-4E.png)
 
 #### Special thanks to [gszabi99](https://github.com/gszabi99) for [War Thunder Datamine](https://github.com/gszabi99/War-Thunder-Datamine) repo
 
